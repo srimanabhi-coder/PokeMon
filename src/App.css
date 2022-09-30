@@ -1,0 +1,11 @@
+/* .cards {
+    margin: 10px 10px;
+} */
+
+.card-row {
+    gap: 3px;
+}
+
+.cards_in_app {
+    background-color: #dfe6e9;
+}
